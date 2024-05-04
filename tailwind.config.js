@@ -8,9 +8,9 @@ export default {
         sans: ['Open Sans', ...defaultTheme.fontFamily.sans]
       },
       colors: {
-        'brand-gray-1': '#F7F7F7',
-        'brand-gray-2': '#E5E5E5',
-        'brand-gray-3': '#D9D9D9'
+        'brand-gray-1': '#dadce0',
+        'brand-gray-2': '#1767d2',
+        'brand-gray-3': '#137333'
       }
     }
   },
